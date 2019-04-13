@@ -45,3 +45,4 @@ Comandos para rodar o projeto.
 	5. Logar com 
 		a. Username: "romy.moura23@gmail.com" ou "romy.moura"
 		b. Password: teste123
+
