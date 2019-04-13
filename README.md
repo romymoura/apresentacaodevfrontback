@@ -1,8 +1,7 @@
-# apresentacaodevfrontback
-Apresentação de desenvolvimento frontend e backend.
+# Apresentação de trabalho Analista Programador e Desenvolvedor Fullstack
 
 
------Backend
+#Backend
 VS 2017 e Vs Code
 C#, SQL SERVER, .net framewor 4.6, .net standard, .net core
 DDD, TDD
@@ -14,7 +13,6 @@ Camadas .net standerd
 EF, Fluent
 Injection
 Automapper
-
 
 1º Abrir projeto no VS2017
 2º Efetuar Retore
