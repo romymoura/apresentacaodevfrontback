@@ -1,6 +1,6 @@
 # Apresentação de trabalho Analista Programador e Desenvolvedor Fullstack
 
-	## Backend
+	Backend
 	•	VS 2017 e Vs Code
 	•	C#, SQL SERVER, .net framewor 4.6, .net standard, .net core
 	•	DDD, TDD
@@ -26,22 +26,26 @@
         5. Set o projeto de api como inicial e de o start,
 	       a. Caso não carregue a index do swagger basta digitar no seu navegado : http://localhost:501/swagge
 
-## Code scaffolding
+## Frontend Com Angular e Integrando API
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+	Frontend
+	•	Angular CLI: 7.3.8
+	•	Node: 11.0.0
+	•	OS: win32 x64
+	•	Angular: 7.2.12
+	•	Html 5
+	•	Booststrap 4
+	•	Integrações com API.
+	•	Site responsivo com imagens fluid, Aplicado tecnicas para comportar em outros divice.
+	•	Autenticação
 
-## Build
+## Obs: Passo para rodar Aplicação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+	Comandos para rodar o projeto.
+	1. npm install ---para adicionar as dependencias necessarias.
+	2. ng build
+	3. ng serve
+	4. digite em seu navegador --- http://localhost:4200
+	5. Logar com 
+		a. Username: "romy.moura23@gmail.com" ou "romy.moura"
+		b. Password: teste123
