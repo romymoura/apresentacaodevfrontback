@@ -1,0 +1,10 @@
+<form #signForm="ngForm" class="form-signin my-5">
+  <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+  <label for="username" class="sr-only">Email address</label>
+  <input type="text" id="username" name="username" class="form-control" [(ngModel)]="username" placeholder="Username" [disabled]="siging" required autofocus>
+  <label for="password" class="sr-only">Password</label>
+  <input type="password" id="password" name="password" class="form-control mt-3" [(ngModel)]="password" placeholder="Password" [disabled]="siging" required>
+  <button class="btn btn-lg btn-primary btn-block" type="submit" (click)="signin()" [disabled]="siging || !username || !password" >
+    {{siging ? 'Please wait...' : 'Sign in'}}
+  </button>
+</form>

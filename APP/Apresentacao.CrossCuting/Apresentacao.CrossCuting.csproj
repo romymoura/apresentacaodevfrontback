@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Apresentacao.CrossCuting</RootNamespace>
+    <AssemblyName>Apresentacao.CrossCuting</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.1.3" />
+    <PackageReference Include="Slf4Net.Log4Net.Core" Version="0.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Apresentacao.Business\Apresentacao.Business.csproj" />
+    <ProjectReference Include="..\Apresentacao.Data\Apresentacao.Data.csproj" />
+    <ProjectReference Include="..\Apresentacao.Domain\Apresentacao.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

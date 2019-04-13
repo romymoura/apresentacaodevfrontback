@@ -1,0 +1,16 @@
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\Apresentacao.Business.deps.json
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\Apresentacao.Business.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\Apresentacao.Business.pdb
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\Apresentacao.Domain.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\Apresentacao.Domain.pdb
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\obj\Debug\netstandard2.0\Apresentacao.Business.csprojAssemblyReference.cache
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\obj\Debug\netstandard2.0\Apresentacao.Business.csproj.CoreCompileInputs.cache
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\obj\Debug\netstandard2.0\Apresentacao.Business.AssemblyInfoInputs.cache
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\obj\Debug\netstandard2.0\Apresentacao.Business.AssemblyInfo.cs
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\obj\Debug\netstandard2.0\Apresentacao.Business.csproj.CopyComplete
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\obj\Debug\netstandard2.0\Apresentacao.Business.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Business\obj\Debug\netstandard2.0\Apresentacao.Business.pdb

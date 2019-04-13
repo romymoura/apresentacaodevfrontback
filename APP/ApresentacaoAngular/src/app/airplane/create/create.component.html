@@ -1,0 +1,37 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12 text-center my-5">
+            <h1 class="display-3">
+                <i class="fa fa-plane-departure text-primary"></i>
+                New Airplanes
+            </h1>
+        </div>
+    </div>
+    <div class="row justify-content-center mb-5">
+        <div class="col-sm-12 col-md-10 col-lg-8">
+            <form #createForm="ngForm">
+                <div class="form-row">
+                    <div class="form-group col-sm-6">
+                        <label for="nome">Code</label>
+                        <input type="text" class="form-control" [(ngModel)]="codeAirplane" name="codeAirplane" id="codeAirplane" placeholder="Code Airplane" />
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label for="sobrenome">Count</label>
+                        <input type="number" min="1" class="form-control" [(ngModel)]="countPassagers" name="countPassagers" id="countPassagers" placeholder="Count" />
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-sm-4">
+                        <label for="nome">Date</label>
+                        <input type="date" max="3000-12-31"  min="1000-01-01" class="form-control" [(ngModel)]="dateRegister" name="dateregister" id="dateregister" placeholder="Date Register" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 my-2">
+                        <button class="btn btn-success" (click)="onCreate()" [disabled]="!codeAirplane || !countPassagers || !dateRegister" >Create</button>
+                    </div>
+                  </div>
+            </form>
+        </div>
+    </div>
+</div>  

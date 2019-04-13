@@ -1,0 +1,14 @@
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\bin\Debug\netstandard2.0\Apresentacao.Domain.deps.json
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\bin\Debug\netstandard2.0\Apresentacao.Domain.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\bin\Debug\netstandard2.0\Apresentacao.Domain.pdb
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\obj\Debug\netstandard2.0\Apresentacao.Domain.csprojAssemblyReference.cache
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\obj\Debug\netstandard2.0\Apresentacao.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\obj\Debug\netstandard2.0\Apresentacao.Domain.AssemblyInfoInputs.cache
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\obj\Debug\netstandard2.0\Apresentacao.Domain.AssemblyInfo.cs
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\obj\Debug\netstandard2.0\Apresentacao.Domain.csproj.CopyComplete
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\obj\Debug\netstandard2.0\Apresentacao.Domain.dll
+E:\Projetos\ProjetoApresentacao\APP\Apresentacao.Domain\obj\Debug\netstandard2.0\Apresentacao.Domain.pdb

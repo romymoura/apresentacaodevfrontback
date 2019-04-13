@@ -1,0 +1,35 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12 text-center my-5">
+            <h1 class="display-3">
+                <i class="fa fa-plane-arrival"></i>
+                Details
+            </h1>
+        </div>
+    </div>
+    <div class="row justify-content-center mb-5">
+        <div class="col-sm-12 col-md-10 col-lg-8">
+              <div class="form-row">
+                   <div class="form-group col-sm-6">
+                        <label for="nome">Code : {{AirplaneModel.codeAirplane}}</label>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-sm-6">
+                        <label for="nome">Count : {{AirplaneModel.countPassengers}}</label>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-sm-6">
+                        <label for="nome">Date Register : {{AirplaneModel.dateRegister | date: 'dd/MM/yyyy'}}</label>
+                    </div>
+                </div>
+        </div>
+        <div class="col-sm-12 col-md-10 col-lg-8">
+            <div class="form-row">
+                <a class="btn btn-primary" href="javascript:history.back();">Voltar</a>
+            </div>
+          </div>
+    </div>
+    
+</div>
