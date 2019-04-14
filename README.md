@@ -13,7 +13,7 @@
 	•	Injection
 	•	Automapper
 
-## Obs: Passo para rodar API
+## Obs: Passos para rodar API
 
 	1.	Abrir projeto no VS2017
 	2.	Efetuar Retore
@@ -39,7 +39,7 @@
 	•	Site responsivo com imagens fluid, Aplicado tecnicas para comportar em outros divice.
 	•	Autenticação
 
-## Obs: Passo para rodar Aplicação
+## Obs: Passos para rodar Aplicação
 
 	Comandos para rodar o projeto.
 	1. npm install ---para adicionar as dependencias necessarias.
