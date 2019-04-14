@@ -16,7 +16,7 @@
 ## Obs: Passos para rodar API
 
 	1.	Abrir projeto no VS2017
-	2.	Efetuar Retore
+	2.	Efetuar Restore
 	3.	Experimente o comando "Update-Database" no Package Manager Console
 		a.	Obs: Senão criar a base tente os passos a seguir
 		b.	3.1º Add-Migration "Apresentacao"
