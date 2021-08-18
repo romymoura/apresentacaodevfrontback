@@ -9,7 +9,7 @@
 	•	Identity Claims (Add Role)
 	•	Endpoints com Authorization por role	
 	•	Camadas .net standerd
-	•	EF, Fluent
+	•	EF, Fluent, Migration
 	•	Injection
 	•	Automapper
 
