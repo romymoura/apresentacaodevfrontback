@@ -31,6 +31,7 @@
 
 	Frontend
 	•	Angular CLI: 7.3.8
+	•	ESC5
 	•	Node: 11.0.0
 	•	OS: win32 x64
 	•	Angular: 7.2.12
