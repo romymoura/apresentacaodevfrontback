@@ -17,6 +17,7 @@
 
 	1.	Abrir projeto no VS2017
 	2.	Efetuar Restore
+		2.1 Ir em propriedade da API e apontar o xml corrente do projeto.
 	3.	Experimente o comando "Update-Database" no Package Manager Console
 		a.	Obs: Senão criar a base tente os passos a seguir
 		b.	3.1º Add-Migration "Apresentacao"
